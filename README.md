@@ -26,8 +26,8 @@ This repository documents my transition to project management, merging disciplin
 Follow my neon-infused journey on [YouTube](https://www.youtube.com/@SilicaStormSiam).
 
 ## Badges
-![Coursera](https://img.shields.io/badge/Coursera-Neon%20Pink-FF69B4?logo=coursera&logoColor=white)
-![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-Neon%20Green-00FF00?logo=google&logoColor=white)
-![Grow with Google](https://img.shields.io/badge/Grow%20with%20Google-Neon%20Purple-800080?logo=google&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-FF69B4?logo=coursera&logoColor=white)
+![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-00FF00?logo=google&logoColor=white)
+![Grow with Google](https://img.shields.io/badge/Grow%20with%20Google-800080?logo=google&logoColor=white)
 
 *Last updated: July 18, 2025*
